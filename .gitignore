@@ -41,3 +41,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Project ignores
+bin/
+obj/
+*.user
+*.cache
+*.suo
+TemporaryGenerated*.cs
+*.pubxml
+Web.config
+Web.Debug.config
+Web.Release.config
